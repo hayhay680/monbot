@@ -1,0 +1,12 @@
+# Bibliothèques principales
+discord.py>=2.3.2
+python-dotenv>=1.0.0
+Flask>=2.3.2
+
+# Extensions utiles
+requests>=2.31.0 # Pour les requêtes API (optionnel)
+py-cord>=2.4.1 # Alternative à discord.py (optionnel)
+
+# Gestion des dépendances
+setuptools>=68.0.0
+wheel>=0.41.0
