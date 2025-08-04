@@ -1,5 +1,0 @@
-# Fichiers à ignorer
-.env
-__pycache__/
-*.log
-*.pyc
